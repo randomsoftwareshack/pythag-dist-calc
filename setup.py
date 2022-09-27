@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='pythag-dist-calc',
-    version='1.0',
+    name='pythagoreandistcalc',
+    version='1.1',
     license='MIT',
     author="randomsoftwareshack",
     author_email='lolimnotputtingmyrealemail@poopmap.net',
@@ -12,7 +12,6 @@ setup(
     url='https://github.com/randomsoftwareshack/pythag-dist-calc',
     keywords='distance formula',
     install_requires=[
-          'math',
       ],
 
 )
